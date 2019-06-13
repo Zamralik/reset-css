@@ -8,9 +8,6 @@
 	display: block;
 	flex-direction: row;
 	flex-wrap: nowrap;
-	justify-content: flex-start;
-	align-content: flex-start;
-	align-items: stretch;
 	flex: 0 0 auto;
 	min-width: 0;
 	max-width: 100%;

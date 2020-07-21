@@ -53,7 +53,7 @@ head, meta, style, script, template, [hidden]
 {
 	display: none!important;
 }
-a, abbr, acronym, b, bdo, br, cite, code, dfn, em, i, kbd, q, samp, small, span, strong, sub, sup, time, var
+a, abbr, acronym, b, bdo, br, cite, code, dfn, em, i, kbd, mark, q, samp, small, span, strong, sub, sup, time, u, var
 {
 	display: inline;
 }
